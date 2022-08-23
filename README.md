@@ -18,6 +18,11 @@ $ npm run start:prod
 ```
 
 ## Example Request
+Post request 
+```bash
+localhost:8080/primecheck
+```
+Body
 ```
 {
     "numbers": [1, 2, 3, 4, 5]
